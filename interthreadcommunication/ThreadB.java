@@ -14,3 +14,11 @@ public class ThreadB {
 	}
 
 }
+
+Output:
+============================================================
+Main thread call wait() method and enters into waiting state.
+Child thread starts Calculation.
+Child thread giving notification Call.
+Main thread got notification. 
+5050
